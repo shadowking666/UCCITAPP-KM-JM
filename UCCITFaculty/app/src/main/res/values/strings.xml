@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UCC IT Faculty</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">About Us</string>
+    <string name="faculty">Faculty</string>
+    <string name="courses">Courses</string>
+    <string name="admission">Admissions</string>
+    <string name="program_description">The Bachelor Degree in Information Technology includes a rounded academic curriculum complemented by practical work. Skills are taught in a context that makes them transferable to the job environment and students demonstrate their readiness by completing projects that solve real world problems. The content and focus of the programme are constantly informed by current practice in the field through a participatory approach that includes input from our students, faculty, and advisory board. The curriculum reflects what is pertinent in the information technology industry and is a rigorous course that balances professional competencies and academic abilities.\n\nThe programme aims to produce graduates who have the technical, business and interpersonal knowledge, skills, and competencies to make significant contributions within the information technology industry nationally, regionally and globally. Graduates of the bachelor programme are prepared for employment as computer programmers, systems analysts or network administrators.\n\nNOTE: Blended programmes like this will be delivered via both face-to-face and online synchronous sessions. Many programmes will offer students the choice to select a course delivered either face-to-face or via synchronous online modality. Upon registration, please read registration instructions carefully so that you select the modality that you prefer based on the options that are available. Students who prefer a 100% asynchronous online modality should indicate this in their application.\n</string>
+    <string name="duration">The University of the Commonwealth Caribbean (UCC) Bachelor of Science degree programmes are four-year programmes. This may be reduced by up to two years, if a student gains Advanced Standing with an appropriate Associate of Science degree or equivalent qualification.\n</string>
+    <string name="arridation">The University of the Commonwealth Caribbean (UCC) is registered with and recognized by the  University Council of Jamaica (UCJ) as a University College with the authority to offer academic degrees up to the Masters level. The University of the Commonwealth Caribbean (UCC) has also been granted institutional accreditation by the University Council of Jamaica (UCJ) since 2007. Students who successfully complete a University of the Commonwealth Caribbean (UCC) academic degree are assured of graduating from an excellent academic programme, provided by an institutionally accredited institution, which will be accepted anywhere in the world.\n</string>
+    <string name="entry_requirment">"To be unconditionally admitted to complete the University of the Commonwealth Caribbean (UCC) undergraduate programmes, individuals should possess a minimum of five (5) subjects at the GCE or CSEC level (including the mandatory English Language and Mathematics) at grades A, B, C or 1, 2, 3 respectively. A CSEC pass at level 3 must have been obtained since 1998. \n\nCandidates who have a minimum of 4 CXCs can also apply pending the outstanding CXC subjects or can opt to do UCC replacement courses Core Mathematics, English for Academic Purpose and Fundamentals of Accounting. \n\nCandidates can opt to apply under the Mature Entry option. To be accepted, applicants must be working for 5 years or more and be at a minimum age of 25 years. Academic qualifications, a detailed resume, a job letter and 3 professional references will be required.\n "</string>
+    <string name="house_programme">Students with 8 CXC/GCE subjects including Mathematics and English Language at Grade 1 may be eligible for a 25% tuition waiver during the first year.</string>0
+    <string name="des_1">This course will introduce students to the core conceptual skills and basic practices needed to develop an Android application. The course will focus on how the application communicates to retrieve, store and interact with other devices on any android platform. Topics will include memory management, user interface design, user interface building, input methods, data handling, and network techniques.</string>
+    <string name="des_2">This course aims to broaden the student’s knowledge of concepts and features of an object-oriented programming language. Students will be required to use these concepts to design solutions for real world problems.</string>
+    <string name="des_3">This course will introduce students to programming concepts. Students will learn proper programming design techniques, principles and basic programming concepts. The focus of the course is to develop the logics, structured design, tracing and testing techniques and rudiments of basic programming language. Programming techniques serves as the foundation course for all other programming courses.</string>
+    <string name="des_4">This introductory course aimed to provide a foundation level understanding of Information
+Technology. The main concepts covered the identification and explanation of basic
+computer components, set up a basic workstation, conduct of basic software installation,
+establishment of basic network connectivity, the identification of compatibility issues and the
+prevention of basic security risks. In the practical section of the course students will get
+hands-on experience using office productivity tools and setup a basic workstation.
+</string>
+    <string name="des_5">This course is aim to provide students with the basic functionality of the operating system and
+troubleshooting methodology, practice proper safety procedures and improve their skills in PC
+support and administration. By completing this course, students will also be assisted in the
+preparation of the technical support qualifications, CompTIA A+ Core 1 220-1001 exam.
+</string>
+    <string name="des_6">This introductory course in Internet Authoring will introduce students to the tools needed to
+develop and publish Web Sites. At the end of this course students should be able to
+comfortably design, develop and publish their site on the Internet. Students will also be
+exposed to selected internet authoring tools to develop and publish web pages.
+</string>
+    <string name="des_7">This course will introduce basic algorithms and data structures in computer science. It will
+also introduce students to the mathematical analysis of algorithms, and provide efficient
+programming techniques.
+</string>
+    <string name="des_8">This course covers the concepts related to database management and design using a variant of
+MYSQL. With the use of database systems, students will understand the capabilities and limitations
+of a system. Lectures will cover database relational database design, normalization, SQL queries,
+report, database data and documentation. In-class activities will focus on creating interactive and
+secure database applications.
+</string>
+    <string name="des_9">This is an introductory course that allows students to format, calculate, and analyze data.
+The course will equip students with the skills needed to use a spreadsheet and python
+programs. Topics include numerical and graphical summaries of data, hypothesis testing,
+confidence intervals, counts and tables, analysis of variance, regression, principal
+components, and cluster analysis. Upon completion of this course, students should be
+able to think critically about data and apply standard statistical inference procedures to
+draw conclusions from such analyses.
+</string>
+    <string name="des_10">This introductory course in Data Communications and Networks is designed to give
+students an understanding of networks and how they can be used in organizations to
+increase efficiency. It will also introduce IP addressing and subnets and briefly look at
+security issues in networking
+</string>
+    <string name="username">Student</string>
+</resources>

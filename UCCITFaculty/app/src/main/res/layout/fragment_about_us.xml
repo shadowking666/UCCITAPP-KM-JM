@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradiant_background"
+    tools:context=".fragment.AboutUsFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginStart="10dp"
+        android:orientation="vertical"
+        android:layout_marginEnd="10dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="About us"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:textSize="22sp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="The University of the Commonwealth Caribbean (UCC) is registered with and recognised by the University Council of Jamaica (UCJ), the official accreditation body for tertiary education in Jamaica, as a University College. The University of the Commonwealth Caribbean has since achieved institutional accreditation by the UCJ. This positions the UCC as one of only five institutions, of the eighty public &amp; private tertiary institutions that have been registered by the UCJ, to have achieved this significant &amp; decisive accreditation status.\n\nUCC is registered by the Jamaica Tertiary Education Commission (J-TEC)."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="ASIC Accreditation"
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="University of the Commonwealth Caribbean is accredited by Accreditation Service for International Schools, Colleges and Universities (ASIC). The University has earned Premier status with ASIC for its commendable areas of operation. ASIC accreditation helps students and parents make a more informed choice and will also help a school, college, university, training provider or distance education provider, demonstrate to the international student body that they are a high quality institution.
+\n\nASIC is recognised by UKVI in UK and is a full member of The International Network for Quality Assurance Agencies in Higher Education (INQAAHE), is a member of the BQF (British Quality Foundation) and are institutional members of EDEN (European Distance and E-Learning Network).
+
+\n\nUCC is the only official Affiliate/Recognised institution of the University of London (UOL) to offer the Certificate of Higher Education in Common Law and the Bachelor of Laws (LLB) degrees in Jamaica.
+\n\n"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</ScrollView>

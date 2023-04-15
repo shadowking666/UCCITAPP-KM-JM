@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A80F5</color>
+    <color name="colorPrimaryDark">#0A80F5</color>
+    <color name="colorAccent">#2779F6</color>
+    <color name="secondaryLightColor">#c9c9c9</color>
+
+    <color name="colorDarkPrimaryText">#222934</color>
+    <color name="colorDarkSecondaryText">#989898</color>
+
+    <color name="large_header">#D198F9</color>
+
+
+    <color name="top_gradient_color">#161616</color>
+
+
+    <color name="new_dark_gray">#1a1a1a</color>
+
+
+    <color name="blue_steel">#222f35</color>
+    <color name="blue_steel2">#40474d</color>
+    <color name="blue_steel_accent_gray">#424242</color>
+
+
+    <color name="dark_purple">#FF291749</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="colorThemePurple">#6200EE</color>
+    <color name="blue_ripple">#0177EC</color>
+
+    <color name="ic_launcher2_background">#000000</color>
+    <color name="ic_launcher3_background">#000000</color>
+
+    <color name="primary_text_color">#E8EAED</color>
+
+    <color name="secondary_text_color">#7A8089</color>
+    <color name="descriptionText">#9AA0A6</color>
+    <color name="descriptionText2">#d2d7dd</color>
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
+    <color name="colorThemePink">#FF3369</color>
+    <color name="colorThemeOrange">#F4442d</color>
+    <color name="colorThemeBlue">#50B3F4</color>
+    <color name="alertButtonBlue">#79d0fb</color>
+    <color name="alertButtonBlue2">#76d1fe</color>
+
+
+    <color name="colorThemeBlue2">#4285F4</color>
+    <color name="colorThemeGreen">#00a273</color>
+    <color name="colorThemeYellow">#E8DE2A</color>
+    <color name="colorThemeYellow2">#f6a90f</color>
+    <color name="divider_color">#EAEAEA</color>
+
+    <color name="grey">#a9a9a9</color>
+
+
+    <color name="event_ripple">#36454F</color>
+
+
+
+    <color name="task_list_action_color">#F7F6FA</color>
+    <color name="task_list_title_view_bg_color">#F8F8F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="halfwhite">#80FFFFFF</color>
+    <color name="text_color">#2C5364</color>
+    <color name="lightGray">#d5d5d5</color>
+    <color name="mediumGray">#D1D1D1</color>
+    <color name="lightMediumGray">#80D1D1D1</color>
+    <color name="textGray">#E8EAED</color>
+    <color name="darkGray">#9AA0A6</color>
+    <color name="uiLocationsDark">#313C44</color>
+    <color name="uiLocationsDark2">#313236</color>
+    <color name="defaultDarker">#202124</color>
+    <color name="defaultLighter">#3C4043</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF4646</color>
+    <color name="yellow">#FFC114</color>
+    <color name="green">#00C980</color>
+    <color name="nav_tab_color">#FF3369</color>
+    <color name="dot_color">#0A80F5</color>
+    <color name="ic_launcher_background">#21082B</color>
+    <color name="guideCardBackground">#313236</color>
+
+    <color name="buttonOnGradientBackground">#2C5364</color>
+
+
+
+    <!-- DARK THEME -->
+    <color name="backgroundColor2">@color/uiLocationsDark2</color>
+    <color name="backgroundColor">@color/uiLocationsDark</color>
+    <color name="placeholderColor">@color/white</color>
+    <color name="itemColor">@color/darkGray</color>
+
+    // Custom Chip Style
+    <color name="checkedChipBackgroundColor">#506200EA</color>
+    <color name="chipBackgroundColor">@color/mediumGray</color>
+    <color name="checkedChipTextColor">@color/textGray</color>
+    <color name="chipTextColor">@color/darkGray</color>
+
+    // Custom Guides CardView Style
+    <color name="strokeColor">@color/mediumGray</color>
+    <color name="cardBackgroundColor">@color/white</color>
+    <color name="cardBackgroundLightColor">#106200EA</color>
+    <color name="guideTitleColor">@color/primary_text_color</color>
+    <color name="guideDescriptionColor">@color/darkGray</color>
+
+    <color name="statusBarColor">#0A80F5</color>
+    <color name="contextualStatusBarColor">@color/statusBarColor</color>
+    <color name="contextualActionBarColor">@color/defaultDarker</color>
+    <color name="actionBarBackgroundColor">@color/defaultDarker</color>
+
+    // Custom BottomNavigationView Style
+    <color name="bottomNavBackground">@color/defaultDarker</color>
+    <color name="bottomNavItemColor">#9AA0A6</color>
+    <color name="bottomNavCheckedItemColor">@color/nav_tab_color</color>
+    <color name="splash_dot">#DDDFE1</color>
+    <color name="link_blue">#2779F6</color>
+</resources>

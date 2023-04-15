@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/about_us"
+            android:title="@string/about_us" />
+        <item
+            android:id="@+id/nav_faculty"
+            android:icon="@drawable/faculty"
+            android:title="@string/faculty" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/courses"
+            android:title="@string/courses" />
+        <item
+            android:id="@+id/nav_admissions"
+            android:icon="@drawable/admission"
+            android:title="@string/admission" />
+        <item
+            android:id="@+id/nav_socialmedia"
+            android:icon="@drawable/social"
+            android:title="Social Media" />
+    </group>
+</menu>
